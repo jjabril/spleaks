@@ -1,33 +1,21 @@
 
-# 📰 NA (Nom Abrégé) • V? @thealzhe
+# 📰 FiveM Code Snippets • Final @thealzhe
 
-### 📃 Prérequis :
-
-- Avoir un(e) repo.
-- Avoir un readme.md.
-
-### 📥 Installation :
+### 📥 How to use :
 
 ```
-1. Avoir une repo.
-2. Copier coller ce readme.md.
-```
+Files with sv_ prefix are server-side.
+Files with cl_ prefix are client side.
 
-### 📥 Configuration :
-
-```
-Aucune ! 😁
+This contains also a premade resource without feature, that you can use to import some code snippets.
 ```
 
 
-### ✏️ Choses à faire
-- Aucune ! 😁
+### ✏️ To Do List
 
 ### 📹 Previews
-- Aucune ! 😁
-
 
 ### ©️ thealzhe
 ```
-Aucun détail complémentaire.
+Please don't delete credits.
 ```
