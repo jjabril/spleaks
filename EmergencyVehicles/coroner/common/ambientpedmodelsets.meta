@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CAmbientModelSets>
+  <ModelSets>
+    <Item type="CAmbientModelSet">
+      <Name>BC_EXAMINER_NURSE</Name>
+      <Models>
+        <Item>
+          <Name>S_F_Y_SCRUBS_01</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>BC_EXAMINER_WORKER</Name>
+      <Models>
+        <Item>
+          <Name>S_M_M_BCCORONER_01</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>LS_CORONER_DOCTOR</Name>
+      <Models>
+        <Item>
+          <Name>S_M_M_Doctor_01</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+    <Item type="CAmbientModelSet">
+      <Name>LS_CORONER_WORKER</Name>
+      <Models>
+        <Item>
+          <Name>S_M_M_Coroner_01</Name>
+          <Variations type="NULL" />
+          <Probability value="1.000000" />
+        </Item>
+      </Models>
+    </Item>
+  </ModelSets>
+</CAmbientModelSets>

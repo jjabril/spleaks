@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CScenarioPointManifest>
+ <VersionNumber value="0" />
+ <RegionDefs>
+  <Item type="CScenarioPointRegionDef">
+   <Name>dlc_sp_coroner:/%PLATFORM%/levels/gta5/scenario/bc_examiner</Name>
+   <AABB>
+    <min x="1690.903" y="3626.456" z="30.35508" />
+    <max x="2041.215" y="3857.486" z="43.43678" />
+   </AABB>
+  </Item>
+  <Item type="CScenarioPointRegionDef">
+   <Name>dlc_sp_coroner:/%PLATFORM%/levels/gta5/scenario/ls_coroner</Name>
+   <AABB>
+    <min x="-82.28167" y="-1595.573" z="28.05729" />
+    <max x="475.8514" y="-1120.361" z="45.50951" />
+   </AABB>
+  </Item>
+ </RegionDefs>
+ <Groups />
+ <InteriorNames />
+</CScenarioPointManifest>
